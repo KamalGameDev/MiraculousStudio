@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MiraculousStudio
-- 👀 I’m interested in ...Making game in unity
+- 👋 Hi, I’m Kamal
+- 👀 I’m interested in ...Making games
 - 🌱 I’m currently learning ...Full stack Game Development
 - 💞️ I’m looking to collaborate on ...game deevelopment
 - 📫 How to reach me ...kamal692103@gmail.com
